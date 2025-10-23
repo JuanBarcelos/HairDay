@@ -84,14 +84,13 @@ npm start
 | -------- | ------------------- | --------------------------------- |
 | `GET`    | `/schedules`        | Lista todos os agendamentos       |
 | `POST`   | `/schedules`        | Cria um novo agendamento          |
-| `PUT`    | `/agendamentos/:id` | Atualiza um agendamento existente |
-| `DELETE` | `/agendamentos/:id` | Remove um agendamento             |
+| `DELETE` | `/schedules/id`     | Remove um agendamento             |
 
 ---
 
 ## 📸 Prévia do Projeto
 
-*(Adicione aqui uma captura de tela ou GIF da interface assim que estiver funcional)*
+![Tela principal do projeto](src/assets/image.png)
 
 ---
 
